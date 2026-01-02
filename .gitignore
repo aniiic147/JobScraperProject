@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Data files (optional - you might want to include sample data)
+# jobs_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db

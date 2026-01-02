@@ -1,0 +1,201 @@
+title,company,location,salary,skills,posted_date,scraped_date
+Security Engineer,Microsoft,"Seattle, WA",$160k - $190k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-21,2026-01-02 01:23:51
+UI/UX Designer,Slack,Remote (Global),$70k - $100k,"JavaScript, React, Node.js, MongoDB",2025-12-10,2026-01-02 01:23:51
+Full Stack Developer,Slack,"Portland, OR",$140k - $170k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-19,2026-01-02 01:23:51
+Senior Software Engineer,LinkedIn,Remote (US),$160k - $190k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-26,2026-01-02 01:23:51
+Solutions Architect,Shopify,"Toronto, Canada",$90k - $120k,"Go, Kubernetes, Docker, AWS",2025-12-26,2026-01-02 01:23:51
+Android Developer,Microsoft,"Los Angeles, CA",$60k - $90k,"Python, Django, Flask, PostgreSQL",2025-12-23,2026-01-02 01:23:51
+Java Developer,Atlassian,"Denver, CO",$150k - $180k,"Python, Django, Flask, PostgreSQL",2025-12-12,2026-01-02 01:23:51
+QA Engineer,Robinhood,"Los Angeles, CA",$140k - $170k,"Go, Kubernetes, Docker, AWS",2025-12-07,2026-01-02 01:23:51
+Mobile Developer,Docker,"Amsterdam, Netherlands",$60k - $90k,"Python, Django, Flask, PostgreSQL",2026-01-01,2026-01-02 01:23:51
+UX Designer,Dropbox,"Toronto, Canada",$160k - $190k,"Python, Django, Flask, PostgreSQL",2025-12-15,2026-01-02 01:23:51
+Mobile Developer,Adobe,"Tokyo, Japan",$120k - $150k,"Java, Spring Boot, MySQL, AWS",2025-12-20,2026-01-02 01:23:51
+Cloud Engineer,Airbnb,"Tokyo, Japan",$160k - $190k,"SQL, Tableau, Power BI, Excel",2025-12-23,2026-01-02 01:23:51
+Python Developer,Docker,Remote (US),$80k - $110k,"React Native, iOS, Android, Firebase",2025-12-18,2026-01-02 01:23:51
+Security Engineer,Adobe,Singapore,$100k - $130k,"Python, Django, Flask, PostgreSQL",2025-12-31,2026-01-02 01:23:51
+Mobile Developer,Airbnb,"London, UK",$110k - $140k,"React Native, iOS, Android, Firebase",2025-12-04,2026-01-02 01:23:51
+Software Engineer,IBM,"Tokyo, Japan",$150k - $180k,"JavaScript, React, Node.js, MongoDB",2025-12-12,2026-01-02 01:23:51
+DevOps Engineer,Lyft,"New York, NY",$100k - $130k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-30,2026-01-02 01:23:51
+Cloud Engineer,GitLab,"Denver, CO",$200k - $230k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-07,2026-01-02 01:23:51
+Full Stack Developer,Shopify,Remote (US),$110k - $140k,"React Native, iOS, Android, Firebase",2025-12-09,2026-01-02 01:23:51
+Full Stack Developer,Airbnb,"Denver, CO",$80k - $110k,"C++, Linux, Git, Jenkins",2025-12-22,2026-01-02 01:23:51
+Senior Software Engineer,Amazon,"London, UK",$150k - $180k,"Java, Spring Boot, MySQL, AWS",2025-12-30,2026-01-02 01:23:51
+Site Reliability Engineer,Atlassian,"Atlanta, GA",$100k - $130k,"Go, Kubernetes, Docker, AWS",2025-12-16,2026-01-02 01:23:51
+Data Scientist,Docker,"Seattle, WA",$150k - $180k,"SQL, Tableau, Power BI, Excel",2025-12-23,2026-01-02 01:23:51
+Data Scientist,Shopify,"Sydney, Australia",$120k - $150k,"SQL, Tableau, Power BI, Excel",2025-12-03,2026-01-02 01:23:51
+JavaScript Developer,Dropbox,"Toronto, Canada",$150k - $180k,"Go, Kubernetes, Docker, AWS",2025-12-20,2026-01-02 01:23:51
+Data Analyst,Twitter,"Los Angeles, CA",$110k - $140k,"Java, Spring Boot, MySQL, AWS",2025-12-09,2026-01-02 01:23:51
+Machine Learning Engineer,ServiceNow,"Sydney, Australia",$200k - $230k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-16,2026-01-02 01:23:51
+Software Engineer,Lyft,"Amsterdam, Netherlands",$110k - $140k,"React Native, iOS, Android, Firebase",2025-12-19,2026-01-02 01:23:51
+Python Developer,Zendesk,"Seattle, WA",$150k - $180k,"AWS, Azure, GCP, Terraform",2025-12-11,2026-01-02 01:23:51
+Python Developer,Amazon,"Portland, OR",$180k - $210k,"Python, Django, Flask, PostgreSQL",2025-12-04,2026-01-02 01:23:51
+Technical Lead,Dropbox,"Denver, CO",$90k - $120k,"Go, Kubernetes, Docker, AWS",2025-12-20,2026-01-02 01:23:51
+QA Engineer,Shopify,"Tokyo, Japan",$60k - $90k,"React Native, iOS, Android, Firebase",2025-12-14,2026-01-02 01:23:51
+JavaScript Developer,PayPal,Singapore,$150k - $180k,"React Native, iOS, Android, Firebase",2025-12-08,2026-01-02 01:23:51
+Android Developer,HubSpot,Remote (US),$120k - $150k,"JavaScript, React, Node.js, MongoDB",2025-12-10,2026-01-02 01:23:51
+Mobile Developer,Netflix,Remote,$150k - $180k,"Python, Django, Flask, PostgreSQL",2025-12-15,2026-01-02 01:23:51
+Site Reliability Engineer,Spotify,"Amsterdam, Netherlands",$160k - $190k,"SQL, Tableau, Power BI, Excel",2025-12-23,2026-01-02 01:23:51
+Data Scientist,Apple,"Austin, TX",$110k - $140k,"JavaScript, React, Node.js, MongoDB",2025-12-31,2026-01-02 01:23:51
+Full Stack Developer,GitLab,"Atlanta, GA",$120k - $150k,"React Native, iOS, Android, Firebase",2026-01-01,2026-01-02 01:23:51
+QA Engineer,Docker,"Denver, CO",$80k - $110k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-28,2026-01-02 01:23:51
+Java Developer,Oracle,"Los Angeles, CA",$180k - $210k,"React Native, iOS, Android, Firebase",2025-12-18,2026-01-02 01:23:51
+Technical Lead,Adobe,"Chicago, IL",$150k - $180k,"Go, Kubernetes, Docker, AWS",2025-12-26,2026-01-02 01:23:51
+JavaScript Developer,Coinbase,"Denver, CO",$60k - $90k,"JavaScript, React, Node.js, MongoDB",2025-12-29,2026-01-02 01:23:51
+Software Engineer,LinkedIn,Remote,$100k - $130k,"JavaScript, React, Node.js, MongoDB",2025-12-22,2026-01-02 01:23:51
+Solutions Architect,Slack,"New York, NY",$150k - $180k,"AWS, Azure, GCP, Terraform",2025-12-08,2026-01-02 01:23:51
+Solutions Architect,Atlassian,"Berlin, Germany",$90k - $120k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-25,2026-01-02 01:23:51
+JavaScript Developer,Apple,"Boston, MA",$70k - $100k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-18,2026-01-02 01:23:51
+Data Scientist,Apple,"Atlanta, GA",$70k - $100k,"Java, Spring Boot, MySQL, AWS",2025-12-14,2026-01-02 01:23:51
+Full Stack Developer,Slack,"Sydney, Australia",$160k - $190k,"Go, Kubernetes, Docker, AWS",2025-12-10,2026-01-02 01:23:51
+QA Engineer,Netflix,"Los Angeles, CA",$140k - $170k,"Python, Django, Flask, PostgreSQL",2025-12-05,2026-01-02 01:23:51
+DevOps Engineer,Salesforce,"Berlin, Germany",$70k - $100k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-28,2026-01-02 01:23:51
+Security Engineer,Atlassian,"Atlanta, GA",$160k - $190k,"JavaScript, React, Node.js, MongoDB",2025-12-05,2026-01-02 01:23:51
+Product Manager,Oracle,"Seattle, WA",$140k - $170k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-22,2026-01-02 01:23:51
+Security Engineer,Docker,"Sydney, Australia",$120k - $150k,"Go, Kubernetes, Docker, AWS",2025-12-13,2026-01-02 01:23:51
+QA Engineer,GitLab,"Seattle, WA",$150k - $180k,"Go, Kubernetes, Docker, AWS",2025-12-04,2026-01-02 01:23:51
+UI/UX Designer,Airbnb,"London, UK",$120k - $150k,"React Native, iOS, Android, Firebase",2025-12-19,2026-01-02 01:23:51
+Technical Lead,Dropbox,"Atlanta, GA",$110k - $140k,"Java, Spring Boot, MySQL, AWS",2025-12-30,2026-01-02 01:23:51
+Software Engineer,Red Hat,"New York, NY",$200k - $230k,"SQL, Tableau, Power BI, Excel",2025-12-14,2026-01-02 01:23:51
+Senior Software Engineer,Salesforce,"Los Angeles, CA",$60k - $90k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-12,2026-01-02 01:23:51
+Machine Learning Engineer,Airbnb,"Austin, TX",$160k - $190k,"Python, Django, Flask, PostgreSQL",2025-12-29,2026-01-02 01:23:51
+Technical Lead,Stripe,"Portland, OR",$150k - $180k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-30,2026-01-02 01:23:51
+Data Analyst,Lyft,"Chicago, IL",$80k - $110k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-19,2026-01-02 01:23:51
+UX Designer,Zoom,"Austin, TX",$70k - $100k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-18,2026-01-02 01:23:51
+Product Manager,IBM,"New York, NY",$110k - $140k,"JavaScript, React, Node.js, MongoDB",2025-12-12,2026-01-02 01:23:51
+Technical Lead,Amazon,Remote (US),$200k - $230k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-07,2026-01-02 01:23:51
+DevOps Engineer,HubSpot,"Chicago, IL",$140k - $170k,"JavaScript, React, Node.js, MongoDB",2025-12-25,2026-01-02 01:23:51
+Senior Software Engineer,Spotify,"Sydney, Australia",$60k - $90k,"Java, Spring Boot, MySQL, AWS",2026-01-02,2026-01-02 01:23:51
+Machine Learning Engineer,Coinbase,"Berlin, Germany",$90k - $120k,"SQL, Tableau, Power BI, Excel",2025-12-12,2026-01-02 01:23:51
+Mobile Developer,Uber,Singapore,$70k - $100k,"SQL, Tableau, Power BI, Excel",2025-12-28,2026-01-02 01:23:51
+DevOps Engineer,Spotify,Remote (Global),$160k - $190k,"Python, Django, Flask, PostgreSQL",2025-12-30,2026-01-02 01:23:51
+Frontend Developer,Red Hat,"Portland, OR",$160k - $190k,"JavaScript, React, Node.js, MongoDB",2025-12-28,2026-01-02 01:23:51
+QA Engineer,Shopify,"Berlin, Germany",$100k - $130k,"AWS, Azure, GCP, Terraform",2025-12-03,2026-01-02 01:23:51
+Android Developer,Apple,"San Francisco, CA",$140k - $170k,"Java, Spring Boot, MySQL, AWS",2025-12-29,2026-01-02 01:23:51
+Python Developer,Twitter,"Berlin, Germany",$120k - $150k,"JavaScript, React, Node.js, MongoDB",2025-12-08,2026-01-02 01:23:51
+Site Reliability Engineer,Docker,"Seattle, WA",$60k - $90k,"Java, Spring Boot, MySQL, AWS",2025-12-31,2026-01-02 01:23:51
+Full Stack Developer,Oracle,"Atlanta, GA",$180k - $210k,"SQL, Tableau, Power BI, Excel",2025-12-22,2026-01-02 01:23:51
+UX Designer,Twitter,Singapore,$80k - $110k,"React Native, iOS, Android, Firebase",2025-12-30,2026-01-02 01:23:51
+Senior Software Engineer,Docker,"Seattle, WA",$180k - $210k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-06,2026-01-02 01:23:51
+QA Engineer,VMware,"Los Angeles, CA",$60k - $90k,"SQL, Tableau, Power BI, Excel",2025-12-16,2026-01-02 01:23:51
+Mobile Developer,Square,"Portland, OR",$60k - $90k,"AWS, Azure, GCP, Terraform",2025-12-17,2026-01-02 01:23:51
+Frontend Developer,Salesforce,"Amsterdam, Netherlands",$180k - $210k,"Go, Kubernetes, Docker, AWS",2025-12-14,2026-01-02 01:23:51
+Security Engineer,Atlassian,"Seattle, WA",$160k - $190k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-31,2026-01-02 01:23:51
+DevOps Engineer,Zoom,"San Francisco, CA",$180k - $210k,"AWS, Azure, GCP, Terraform",2025-12-06,2026-01-02 01:23:51
+Data Analyst,Atlassian,Remote,$60k - $90k,"Python, Machine Learning, TensorFlow, scikit-learn",2026-01-02,2026-01-02 01:23:51
+Machine Learning Engineer,Atlassian,Remote,$100k - $130k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-22,2026-01-02 01:23:51
+Data Scientist,HubSpot,Remote (Global),$180k - $210k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-26,2026-01-02 01:23:51
+Software Engineer,Zendesk,Remote,$180k - $210k,"Python, Django, Flask, PostgreSQL",2025-12-31,2026-01-02 01:23:51
+Site Reliability Engineer,Salesforce,"Tokyo, Japan",$90k - $120k,"JavaScript, React, Node.js, MongoDB",2025-12-30,2026-01-02 01:23:51
+Software Engineer,Atlassian,"Seattle, WA",$80k - $110k,"React Native, iOS, Android, Firebase",2025-12-12,2026-01-02 01:23:51
+Product Manager,Square,"Toronto, Canada",$160k - $190k,"Python, Django, Flask, PostgreSQL",2025-12-14,2026-01-02 01:23:51
+Python Developer,Apple,"Boston, MA",$100k - $130k,"Java, Spring Boot, MySQL, AWS",2025-12-06,2026-01-02 01:23:51
+Machine Learning Engineer,Meta,"Toronto, Canada",$120k - $150k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-15,2026-01-02 01:23:51
+DevOps Engineer,Lyft,"Los Angeles, CA",$60k - $90k,"React Native, iOS, Android, Firebase",2025-12-31,2026-01-02 01:23:51
+Data Analyst,Atlassian,Singapore,$80k - $110k,"AWS, Azure, GCP, Terraform",2025-12-21,2026-01-02 01:23:51
+Solutions Architect,Dropbox,"Tokyo, Japan",$180k - $210k,"SQL, Tableau, Power BI, Excel",2025-12-30,2026-01-02 01:23:51
+Python Developer,Spotify,"Amsterdam, Netherlands",$60k - $90k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-25,2026-01-02 01:23:51
+QA Engineer,Meta,"Los Angeles, CA",$60k - $90k,"Java, Spring Boot, MySQL, AWS",2025-12-08,2026-01-02 01:23:51
+Python Developer,Shopify,"Denver, CO",$110k - $140k,"Go, Kubernetes, Docker, AWS",2025-12-03,2026-01-02 01:23:51
+Mobile Developer,Meta,"Atlanta, GA",$80k - $110k,"React Native, iOS, Android, Firebase",2025-12-06,2026-01-02 01:23:51
+iOS Developer,Netflix,"Toronto, Canada",$160k - $190k,"AWS, Azure, GCP, Terraform",2025-12-15,2026-01-02 01:23:51
+Site Reliability Engineer,Spotify,"Austin, TX",$130k - $160k,"Python, Django, Flask, PostgreSQL",2025-12-24,2026-01-02 01:23:51
+Backend Developer,Twitter,"Denver, CO",$80k - $110k,"C++, Linux, Git, Jenkins",2025-12-20,2026-01-02 01:23:51
+Security Engineer,VMware,"Los Angeles, CA",$120k - $150k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-16,2026-01-02 01:23:51
+JavaScript Developer,Netflix,"Sydney, Australia",$120k - $150k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-08,2026-01-02 01:23:51
+Android Developer,Twitter,"Denver, CO",$160k - $190k,"Python, Django, Flask, PostgreSQL",2025-12-23,2026-01-02 01:23:51
+UX Designer,Robinhood,"Denver, CO",$150k - $180k,"Python, Django, Flask, PostgreSQL",2025-12-19,2026-01-02 01:23:51
+JavaScript Developer,Zoom,"Toronto, Canada",$120k - $150k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-04,2026-01-02 01:23:51
+Product Manager,Lyft,"Toronto, Canada",$140k - $170k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-14,2026-01-02 01:23:51
+QA Engineer,Atlassian,"Boston, MA",$80k - $110k,"C++, Linux, Git, Jenkins",2025-12-13,2026-01-02 01:23:51
+iOS Developer,Shopify,"Boston, MA",$130k - $160k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-13,2026-01-02 01:23:51
+Data Scientist,Robinhood,Remote,$80k - $110k,"SQL, Tableau, Power BI, Excel",2025-12-04,2026-01-02 01:23:51
+Software Engineer,Docker,"San Francisco, CA",$110k - $140k,"Go, Kubernetes, Docker, AWS",2025-12-19,2026-01-02 01:23:51
+Solutions Architect,LinkedIn,"Boston, MA",$150k - $180k,"Python, Machine Learning, TensorFlow, scikit-learn",2026-01-01,2026-01-02 01:23:51
+UI/UX Designer,LinkedIn,"Toronto, Canada",$180k - $210k,"React Native, iOS, Android, Firebase",2025-12-26,2026-01-02 01:23:51
+Senior Software Engineer,Stripe,"London, UK",$150k - $180k,"SQL, Tableau, Power BI, Excel",2025-12-20,2026-01-02 01:23:51
+Frontend Developer,Spotify,"Chicago, IL",$160k - $190k,"SQL, Tableau, Power BI, Excel",2025-12-24,2026-01-02 01:23:51
+UI/UX Designer,Meta,"Sydney, Australia",$160k - $190k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-06,2026-01-02 01:23:51
+Frontend Developer,Spotify,Remote,$90k - $120k,"Java, Spring Boot, MySQL, AWS",2025-12-28,2026-01-02 01:23:51
+DevOps Engineer,Red Hat,"Boston, MA",$70k - $100k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-25,2026-01-02 01:23:51
+Java Developer,Google,"Los Angeles, CA",$120k - $150k,"Python, Django, Flask, PostgreSQL",2025-12-28,2026-01-02 01:23:51
+Solutions Architect,Coinbase,"Los Angeles, CA",$140k - $170k,"JavaScript, React, Node.js, MongoDB",2025-12-18,2026-01-02 01:23:51
+Site Reliability Engineer,GitLab,Remote,$200k - $230k,"React Native, iOS, Android, Firebase",2025-12-21,2026-01-02 01:23:51
+Mobile Developer,Apple,"Atlanta, GA",$160k - $190k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-18,2026-01-02 01:23:51
+Python Developer,Meta,"Berlin, Germany",$90k - $120k,"AWS, Azure, GCP, Terraform",2025-12-11,2026-01-02 01:23:51
+QA Engineer,ServiceNow,"San Francisco, CA",$200k - $230k,"React Native, iOS, Android, Firebase",2025-12-26,2026-01-02 01:23:51
+Data Scientist,IBM,"Portland, OR",$70k - $100k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-04,2026-01-02 01:23:51
+iOS Developer,Docker,"Berlin, Germany",$180k - $210k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-13,2026-01-02 01:23:51
+JavaScript Developer,Lyft,Remote (Global),$80k - $110k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-04,2026-01-02 01:23:51
+iOS Developer,Robinhood,"Chicago, IL",$140k - $170k,"AWS, Azure, GCP, Terraform",2025-12-14,2026-01-02 01:23:51
+Technical Lead,IBM,"London, UK",$70k - $100k,"C++, Linux, Git, Jenkins",2026-01-02,2026-01-02 01:23:51
+Machine Learning Engineer,Amazon,"Toronto, Canada",$70k - $100k,"C++, Linux, Git, Jenkins",2025-12-18,2026-01-02 01:23:51
+Software Engineer,Salesforce,"Amsterdam, Netherlands",$90k - $120k,"SQL, Tableau, Power BI, Excel",2026-01-01,2026-01-02 01:23:51
+Full Stack Developer,Robinhood,"London, UK",$130k - $160k,"Python, Django, Flask, PostgreSQL",2025-12-07,2026-01-02 01:23:51
+Android Developer,GitHub,"Chicago, IL",$110k - $140k,"SQL, Tableau, Power BI, Excel",2026-01-02,2026-01-02 01:23:51
+QA Engineer,Robinhood,"Austin, TX",$120k - $150k,"C++, Linux, Git, Jenkins",2025-12-04,2026-01-02 01:23:51
+JavaScript Developer,Netflix,"San Francisco, CA",$140k - $170k,"C++, Linux, Git, Jenkins",2025-12-26,2026-01-02 01:23:51
+Frontend Developer,Docker,"Boston, MA",$80k - $110k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-20,2026-01-02 01:23:51
+Software Engineer,Apple,"London, UK",$90k - $120k,"React Native, iOS, Android, Firebase",2025-12-07,2026-01-02 01:23:51
+iOS Developer,ServiceNow,"Tokyo, Japan",$200k - $230k,"C++, Linux, Git, Jenkins",2025-12-25,2026-01-02 01:23:51
+UI/UX Designer,Coinbase,"Los Angeles, CA",$120k - $150k,"AWS, Azure, GCP, Terraform",2025-12-09,2026-01-02 01:23:51
+JavaScript Developer,Oracle,Singapore,$60k - $90k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-12,2026-01-02 01:23:51
+Software Engineer,Coinbase,"Amsterdam, Netherlands",$70k - $100k,"Python, Django, Flask, PostgreSQL",2025-12-23,2026-01-02 01:23:51
+Mobile Developer,GitLab,"Austin, TX",$120k - $150k,"C++, Linux, Git, Jenkins",2025-12-08,2026-01-02 01:23:51
+Full Stack Developer,Apple,"Atlanta, GA",$160k - $190k,"JavaScript, React, Node.js, MongoDB",2025-12-06,2026-01-02 01:23:51
+Java Developer,PayPal,Remote (Global),$200k - $230k,"C++, Linux, Git, Jenkins",2025-12-31,2026-01-02 01:23:51
+Full Stack Developer,VMware,"Chicago, IL",$180k - $210k,"C++, Linux, Git, Jenkins",2025-12-31,2026-01-02 01:23:51
+Data Scientist,Stripe,"Denver, CO",$180k - $210k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-03,2026-01-02 01:23:51
+Machine Learning Engineer,Netflix,"Sydney, Australia",$200k - $230k,"SQL, Tableau, Power BI, Excel",2025-12-20,2026-01-02 01:23:51
+Senior Software Engineer,Airbnb,"Seattle, WA",$180k - $210k,"SQL, Tableau, Power BI, Excel",2025-12-06,2026-01-02 01:23:51
+Data Analyst,Netflix,Remote (US),$130k - $160k,"JavaScript, React, Node.js, MongoDB",2025-12-21,2026-01-02 01:23:51
+Frontend Developer,Zoom,"Atlanta, GA",$150k - $180k,"React Native, iOS, Android, Firebase",2025-12-23,2026-01-02 01:23:51
+Android Developer,Microsoft,"Portland, OR",$80k - $110k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-15,2026-01-02 01:23:51
+Security Engineer,Spotify,"Chicago, IL",$100k - $130k,"SQL, Tableau, Power BI, Excel",2025-12-17,2026-01-02 01:23:51
+Security Engineer,Netflix,"Austin, TX",$130k - $160k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-15,2026-01-02 01:23:51
+Technical Lead,Square,"Austin, TX",$80k - $110k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-29,2026-01-02 01:23:51
+Machine Learning Engineer,GitLab,Singapore,$90k - $120k,"AWS, Azure, GCP, Terraform",2025-12-14,2026-01-02 01:23:51
+Android Developer,Google,"Tokyo, Japan",$60k - $90k,"Python, Django, Flask, PostgreSQL",2025-12-20,2026-01-02 01:23:51
+Data Scientist,Slack,Remote,$110k - $140k,"React Native, iOS, Android, Firebase",2025-12-24,2026-01-02 01:23:51
+DevOps Engineer,Lyft,"Berlin, Germany",$120k - $150k,"Python, Django, Flask, PostgreSQL",2026-01-02,2026-01-02 01:23:51
+JavaScript Developer,Microsoft,"Berlin, Germany",$100k - $130k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-04,2026-01-02 01:23:51
+Python Developer,Robinhood,"San Francisco, CA",$180k - $210k,"AWS, Azure, GCP, Terraform",2025-12-07,2026-01-02 01:23:51
+UX Designer,IBM,"Berlin, Germany",$120k - $150k,"AWS, Azure, GCP, Terraform",2025-12-19,2026-01-02 01:23:51
+Data Scientist,Salesforce,Singapore,$150k - $180k,"Java, Spring Boot, MySQL, AWS",2025-12-31,2026-01-02 01:23:51
+Data Analyst,Meta,"New York, NY",$90k - $120k,"Python, Django, Flask, PostgreSQL",2025-12-18,2026-01-02 01:23:51
+Cloud Engineer,Workday,Remote,$140k - $170k,"React Native, iOS, Android, Firebase",2025-12-06,2026-01-02 01:23:51
+Java Developer,Shopify,"New York, NY",$110k - $140k,"JavaScript, React, Node.js, MongoDB",2025-12-13,2026-01-02 01:23:51
+Product Manager,Netflix,Remote (US),$150k - $180k,"Go, Kubernetes, Docker, AWS",2025-12-14,2026-01-02 01:23:51
+QA Engineer,Coinbase,"Sydney, Australia",$90k - $120k,"Go, Kubernetes, Docker, AWS",2025-12-25,2026-01-02 01:23:51
+Mobile Developer,Zoom,"Boston, MA",$100k - $130k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-08,2026-01-02 01:23:51
+QA Engineer,LinkedIn,"Tokyo, Japan",$160k - $190k,"Go, Kubernetes, Docker, AWS",2025-12-30,2026-01-02 01:23:51
+QA Engineer,Stripe,Remote,$70k - $100k,"JavaScript, React, Node.js, MongoDB",2025-12-10,2026-01-02 01:23:51
+Security Engineer,Red Hat,Remote (US),$70k - $100k,"JavaScript, React, Node.js, MongoDB",2026-01-01,2026-01-02 01:23:51
+Site Reliability Engineer,HubSpot,Remote (US),$160k - $190k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-28,2026-01-02 01:23:51
+QA Engineer,Workday,"Boston, MA",$180k - $210k,"JavaScript, React, Node.js, MongoDB",2025-12-22,2026-01-02 01:23:51
+Data Scientist,LinkedIn,"London, UK",$110k - $140k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-30,2026-01-02 01:23:51
+Technical Lead,Zoom,Remote (US),$150k - $180k,"C++, Linux, Git, Jenkins",2025-12-27,2026-01-02 01:23:51
+Python Developer,Airbnb,"Seattle, WA",$70k - $100k,"JavaScript, React, Node.js, MongoDB",2025-12-28,2026-01-02 01:23:51
+Senior Software Engineer,Red Hat,"Berlin, Germany",$80k - $110k,"Java, Spring Boot, MySQL, AWS",2025-12-29,2026-01-02 01:23:51
+JavaScript Developer,Twitter,"Toronto, Canada",$100k - $130k,"Python, Django, Flask, PostgreSQL",2025-12-11,2026-01-02 01:23:51
+Mobile Developer,Salesforce,"Chicago, IL",$90k - $120k,"Python, Django, Flask, PostgreSQL",2025-12-06,2026-01-02 01:23:51
+Technical Lead,Airbnb,Remote,$110k - $140k,"C++, Linux, Git, Jenkins",2025-12-12,2026-01-02 01:23:51
+Full Stack Developer,Apple,"New York, NY",$90k - $120k,"AWS, Azure, GCP, Terraform",2025-12-16,2026-01-02 01:23:51
+Product Manager,LinkedIn,"Atlanta, GA",$200k - $230k,"Go, Kubernetes, Docker, AWS",2025-12-05,2026-01-02 01:23:51
+UI/UX Designer,Adobe,"Berlin, Germany",$70k - $100k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-10,2026-01-02 01:23:51
+Cloud Engineer,Meta,Remote,$200k - $230k,"Go, Kubernetes, Docker, AWS",2025-12-09,2026-01-02 01:23:51
+Frontend Developer,GitHub,"Denver, CO",$140k - $170k,"Java, Spring Boot, MySQL, AWS",2025-12-30,2026-01-02 01:23:51
+Mobile Developer,HubSpot,"San Francisco, CA",$70k - $100k,"Go, Kubernetes, Docker, AWS",2025-12-20,2026-01-02 01:23:51
+Data Scientist,Docker,Remote (US),$80k - $110k,"TypeScript, Angular, Vue.js, GraphQL",2025-12-11,2026-01-02 01:23:51
+Data Scientist,Microsoft,"Boston, MA",$120k - $150k,"React Native, iOS, Android, Firebase",2025-12-15,2026-01-02 01:23:51
+Data Analyst,PayPal,"Atlanta, GA",$160k - $190k,"AWS, Azure, GCP, Terraform",2025-12-10,2026-01-02 01:23:51
+Java Developer,Amazon,"Atlanta, GA",$200k - $230k,"SQL, Tableau, Power BI, Excel",2025-12-20,2026-01-02 01:23:51
+Data Scientist,Slack,"Seattle, WA",$110k - $140k,"Go, Kubernetes, Docker, AWS",2025-12-22,2026-01-02 01:23:51
+Mobile Developer,IBM,"Tokyo, Japan",$200k - $230k,"Java, Spring Boot, MySQL, AWS",2025-12-19,2026-01-02 01:23:51
+Java Developer,ServiceNow,"Toronto, Canada",$140k - $170k,"Go, Kubernetes, Docker, AWS",2025-12-26,2026-01-02 01:23:51
+UX Designer,Spotify,Remote (US),$150k - $180k,"Python, Machine Learning, TensorFlow, scikit-learn",2025-12-24,2026-01-02 01:23:51
+Machine Learning Engineer,Workday,"Berlin, Germany",$180k - $210k,"C++, Linux, Git, Jenkins",2025-12-30,2026-01-02 01:23:51
+Cloud Engineer,Square,Remote (Global),$150k - $180k,"Go, Kubernetes, Docker, AWS",2025-12-29,2026-01-02 01:23:51
+Java Developer,Slack,Remote (US),$160k - $190k,"AWS, Azure, GCP, Terraform",2025-12-17,2026-01-02 01:23:51
+Site Reliability Engineer,Meta,"Denver, CO",$130k - $160k,"C++, Linux, Git, Jenkins",2025-12-07,2026-01-02 01:23:51
+UX Designer,Salesforce,"Sydney, Australia",$150k - $180k,"Go, Kubernetes, Docker, AWS",2025-12-11,2026-01-02 01:23:51
+Full Stack Developer,Amazon,"Seattle, WA",$110k - $140k,"Python, Django, Flask, PostgreSQL",2025-12-29,2026-01-02 01:23:51
