@@ -170,7 +170,7 @@ MIT License - feel free to use this project for learning and portfolio purposes.
 
 ## 👤 Author
 
-**Your Name**
+**Ani Chowdhury**
 - GitHub: [@aniiic147](https://github.com/aniiic147)
 
 ---
